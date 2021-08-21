@@ -25,7 +25,7 @@
 > pkg install bash -y
 > pkg install mc -y
 > git clone https://github.com/J-I-H-A-D/JIHAD-SER
-> cd jarvis
+> cd JIHAD-SER
 > bash install.sh
 > npm start
 ```
@@ -33,10 +33,10 @@
 ## CONTACT ME <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
 
 * [`WhatsApp Number `](https://wa.me/+917736703116)
-* [`WhatsApp Group `]()
+* [`WhatsApp Group `](https://chat.whatsapp.com/G8RHcba0E5x3L1d9uICyK0)
 ## THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
 
-* [`SPARROW`]
+* [`JIHAD`]
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
 
 ### `--server`
