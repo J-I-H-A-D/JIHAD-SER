@@ -13,4 +13,4 @@ npm i
 npm install
 npm audit fix
 
-echo "[*] Installation process has been completed, Type \"npm start\" To start JARVIS👍"
+echo "[*] Installation process has been completed, Type \"npm start\" To start JIHAD SER👍"
